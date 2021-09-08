@@ -45,11 +45,10 @@
     "lodash.clonedeep": "^4.5.0",
     "prom-client": "^11.5.3",
     "semver": "^7.1.2",
-    "tar": "^4.4.16",
     "yargs": "^14.2.2"
   },
   "optionalDependencies": {
-    "gc-stats": "^1.4.0",
+    "gc-stats": "dainis/node-gcstats#fd4ea294c9a0eda05a760348424df2ce072659ea",
     "heapdump": "^0.3.15"
   },
   "devDependencies": {
